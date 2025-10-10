@@ -213,8 +213,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
 Project Link: [https://github.com/yourusername/customer-life-value-prediction](https://github.com/yourusername/customer-life-value-prediction)
 
 ## 🙏 Acknowledgments
