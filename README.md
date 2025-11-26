@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# CLV_Dissertation
-This is my final year Dissertation Project, Calculating Customer Lifetime Value Using Fusion Algorithms
-=======
 # Customer Life Value (CLV) Prediction Analysis
 
 A comprehensive machine learning project for predicting Customer Life Value using various regression algorithms and ensemble methods.
