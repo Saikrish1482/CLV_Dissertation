@@ -39,28 +39,6 @@ pip install scikit-learn
 ### Python Version
 - Python 3.7 or higher
 
-## 🚀 Installation & Usage
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/customer-life-value-prediction.git
-   cd customer-life-value-prediction
-   ```
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Prepare your data**
-   - Place all 6 CSV files in the same directory as the script
-   - Ensure file names match: `Returns.csv`, `Suppliers.csv`, `Customers.csv`, `Orders.csv`, `Payment_info.csv`, `Products.csv`
-
-4. **Run the analysis**
-   ```bash
-   python customer_life_value.py
-   ```
-
 ## 📈 Features
 
 ### Data Processing
